@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Realtime Auction System</string>
+    <string-array name="category">
+        <item>Auctioneer</item>
+        <item>Bidder</item>
+    </string-array>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login_screen_tabs">LoginScreenTabs</string>
+    <string-array name="duration">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="hours">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="mins">
+        <item>00</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="category_of_item">
+        <item>Computing</item>
+        <item>Vehicles</item>
+        <item>Houses</item>
+    </string-array>
+    <string-array name="category_search">
+        <item>All</item>
+        <item>Computing</item>
+        <item>Vehicles</item>
+        <item>Houses</item>
+    </string-array>
+    <string name="title_activity_bidding">BiddingActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

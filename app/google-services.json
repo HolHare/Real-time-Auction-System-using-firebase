@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "78064441054",
+    "firebase_url": "https://auctionsystem-883d3.firebaseio.com",
+    "project_id": "auctionsystem-883d3",
+    "storage_bucket": "auctionsystem-883d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78064441054:android:f6f1ed5feec3e8e9",
+        "android_client_info": {
+          "package_name": "com.example.osamakhalid.realtimeauctionsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78064441054-vmparbj880ibk6ba3i0d1df2ko8rtnc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.osamakhalid.realtimeauctionsystem",
+            "certificate_hash": "03208cbe0135412678266a2b2261ec70ad45da11"
+          }
+        },
+        {
+          "client_id": "78064441054-2c1aipri8d32e1dgjs497nnv90fneb88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkn4yGoMFuePQELIqRBL2K5BWL5vvhFR8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78064441054-2c1aipri8d32e1dgjs497nnv90fneb88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

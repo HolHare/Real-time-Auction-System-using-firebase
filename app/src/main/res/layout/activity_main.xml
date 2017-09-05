@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    tools:context="com.example.osamakhalid.realtimeauctionsystem.MainActivity">
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="35dp"
+        android:text="Username or Email Address"
+        android:textSize="@dimen/textsize"
+        android:layout_marginLeft="@dimen/marginLeftText"
+        android:layout_marginTop="130dp"
+        />
+    <EditText
+        android:id="@+id/email"
+        android:hint="Enter your email address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="35dp"
+        android:layout_marginTop="@dimen/marginTopEditText"
+        android:layout_marginLeft="@dimen/marginLeftEditbox"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+
+        android:text="Password"
+        android:textSize="@dimen/textsize"
+        android:layout_marginLeft="@dimen/marginLeftText"
+        />
+    <EditText
+        android:id="@+id/password"
+        android:hint="Enter your password"
+        android:layout_width="match_parent"
+        android:layout_marginRight="35dp"
+        android:inputType="textPassword"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/marginTopEditText"
+        android:layout_marginLeft="@dimen/marginLeftEditbox" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/signupbutton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sign up"
+            android:layout_marginLeft="@dimen/marginLeftText"
+            />
+        <Button
+            android:id="@+id/loginbutton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Log in"
+            android:layout_marginLeft="10dp"
+            />
+    </LinearLayout>
+</LinearLayout>
